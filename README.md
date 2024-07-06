@@ -1,7 +1,7 @@
 # Map of Massachusetts
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-<img src="./ShipRace Spain to Puerto Rico, 1770 720p.gif" img alt = "ShipRace GIF"/>
+<img src="./MapOfMassachusetts.pdf" img alt = "Massachusetts Map"/>
 
 ## How It's Made:
 

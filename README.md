@@ -7,7 +7,9 @@ A reference map depicting the state of Massachusetts, capturing its geographical
 
 **Tech used:** ArcGIS Pro
 
-I downlaoded the dataset
+I downloaded the dataset of Masachusetts data and selected the Counties_norteast layer that was mvoed to the bottom of the Contents pane then opened the Symbology pane from the Feature Layer tab. The goal is to showcase one feature in the map, which the state of Massachusetts. In the Symbology pane I selected the Unique Values which shows the different values regarding the different state names. From Field 1 I chose STATE_NAME and selected every state except Massachusetts and removed them. Massachusetts is now highlighted with a unique symbol to distinguish it from the other states, which are all drawn with the symbol defined for "all other values."
+
+
 
 ## Optimizations
 *(optional)*

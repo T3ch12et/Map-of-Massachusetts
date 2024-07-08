@@ -1,5 +1,5 @@
 # Map of Massachusetts
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+A reference map depicting the state of Massachusetts, capturing its geographical and key administrative features in a compact format.
 
 <img src="./MapOfMassachusetts.png" img alt = "Massachusetts Map"/>
 

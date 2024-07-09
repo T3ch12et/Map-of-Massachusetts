@@ -29,7 +29,7 @@ This project not only highlighted Massachusetts effectively but also demonstrate
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Through this project, I learned several valuable lessons that have significantly enhanced my GIS skills. I discovered the importance of utilizing unique symbology to make key features stand out, such as highlighting Massachusetts with a distinct color while using subdued tones for surrounding states. The process of converting the color model to CMYK for print maps emphasized the need for understanding different color models and their applications. I also gained experience in setting transparency levels to subtly display urban areas without overpowering other map elements. Differentiating public parks using data attributes and applying unique values demonstrated the power of data-driven symbology in creating informative maps. Adjusting highway symbology and ensuring the correct reference scale taught me how to maintain proportional and visually connected symbols. Finally, leveraging the Maplex Label Engine for advanced label placement highlighted the significance of precise label management to enhance map readability. This project not only refined my technical skills but also deepened my understanding of the principles of visual hierarchy and effective map design. Throughout the process, I was amazed by how simple features like transparency can create compelling maps by establishing visual hierarchy while simultaneously making the map more detailed. Additionally, using subtle color variations to draw attention to specific elements underscored the powerful impact of thoughtful design choices.
 
 ## Repositories
 **Profile:** [T3ch12et](https://github.com/T3ch12et)
@@ -41,8 +41,20 @@ No matter what your experience level, being an engineer means continuously learn
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Miami Sea Level Rise:** [3D Miami Beach Sea Level Rise](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/3D-Miami-Beach-Sea-Level-Rise)
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
+
+**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851) 
+
+**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
+
+**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+
+**Addressing Climate Change:** [Using GIS to address climate change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/blob/main/ESRI-MOOC-GIS-for-Climate-Action/Addressing-Climate-Change/README.md)
+
+**Shipping in 1770:** [World Shipping in 1770](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Shipping-in-1770)
+
+**Ship Race from Spain to Puerto Rico:** [Ship Race: Spain to Puerto Rico](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Ship-Race-Spain-to-Puerto-Rico-1770)
